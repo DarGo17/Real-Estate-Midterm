@@ -1,8 +1,16 @@
 # Real-Estate-Midterm
-This project analyzes and disects the likelihood cost of purchasing a home in Fayetteville, NC compared to the national average and their current income. For assumptions I've used BAH with dependents plus base salary to establish their income level and compared that to housing data provided by zillow housing data.
+This project examines the likelihood and cost of purchasing a home in Fayetteville, NC, compared to the national average, as well as how these costs relate to the average enlisted income in the U.S. Army. Using a comprehensive approach, I combined Basic Allowance for Housing (BAH) rates (with dependents) and base salary to establish an income benchmark, and compared that to housing market data sourced from Zillow.
 
-Data sets that were explored included the lat 100 years of inflation rates, the last 15 years of mortgage payments nationally and around Fayetteville, NC as well as BAH changes throughout the last 15 years. This all compounded into a presentation that shows what the affordability of mordern homes are locally and nationally for the average Enlisted person in the United States Army.
+I explored several key data sets:
 
-The key findings showes that until the rank of E8 homes today are above the threshold of affordability - 28% of gross income by financial advise standard.
+-Inflation rates over the past 100 years
 
-The project expounds on historical context regarding inlfation and then explained the impact that has on larger economic princiapls in the US economy and the impact the Federal Reserve had throughout that time period.
+-National and Fayetteville-specific mortgage payment trends over the last 15 years
+
+-Historical changes in BAH over the past 15 years
+
+These insights were synthesized into a presentation outlining how affordable modern homes are, both locally and nationally, for the average enlisted soldier.
+
+Key findings showed that for enlisted personnel up to the rank of E-8, current home prices exceed the affordability threshold—defined as 28% of gross income, based on widely accepted financial planning guidelines.
+
+In addition, the project contextualized these findings within broader economic history, highlighting the role of inflation and the Federal Reserve’s policies during this period.
